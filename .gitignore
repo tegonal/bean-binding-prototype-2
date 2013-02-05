@@ -1,0 +1,17 @@
+logs
+project/project
+project/target
+bin
+target
+.target
+tmp
+.history
+dist
+.cache
+.project
+.classpath
+.settings
+*.h2.db
+*.lock.db
+*.trace.db
+RUNNING_PID
